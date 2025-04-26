@@ -31,12 +31,6 @@ Este é meu portfólio profissional, onde apresento minhas principais habilidade
 
 ---
 
-## 📷 Preview
-
-![preview](https://saviofagundes.github.io/portfolio/assets/preview.png)
-
----
-
 ## 📁 Como executar localmente
 
 ```bash
