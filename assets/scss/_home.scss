@@ -19,9 +19,9 @@
         @include responsive-tablet {
           padding: 0px;
         }
-  
         #home-container-text {
           width: 100%;
+          display: flex;
           flex-direction: column;
   
           @include responsive-tablet {
@@ -60,6 +60,13 @@
             font-weight: 400;
             line-height: 160%;
           }
+
+          .buttons-container {
+            display: flex;
+            gap: 16px;
+            margin-top: 30px;
+            flex-wrap: wrap;
+            justify-content: center;
   
           a {
             @include flexbox-center;
@@ -97,4 +104,4 @@
       }
     }
   }
-  
+}
